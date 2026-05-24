@@ -123,7 +123,7 @@
 ## 📈 访问统计
 
 <div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nachonekoqwq&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://count.getloli.com/@:Celestine-Lux?theme=booru-jaypee" alt=":Celestine-Lux" />
 </div>
 
 <br>
