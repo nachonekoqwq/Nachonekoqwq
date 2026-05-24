@@ -4,7 +4,7 @@
 <h1 align="center">🌸 欢迎来到甘城QAQ的小世界 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=热爱编程的技术宅;喜欢探索新技术;游戏爱好者一枚;持续学习，持续进步!" alt="Typing SVG" />
+  <img align="center" alt="img" src="https://github.com/Celestine-Lux/Celestine-Lux/blob/main/gif.gif" width="40%" height="aualt="Typing SVG" />
 </p>
 
 <h3 align="center">用代码构建美好的事物，用心享受每一天</h3>
@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="https://space.bilibili.com/">
-    <img src="https://img.shields.io/badge/Bilibili-甘城QAQ-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-Celestine--Lux-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   &nbsp;
   <a href="mailto:linmo0241@gmail.com">
