@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=甘城QAQ&fontSize=100&fontAlignY=38&animation=twinkling&desc=✨ 热爱代码与生活 ✨&descAlignY=68&descSize=30" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=nachonekoqwq&fontSize=100&fontAlignY=38&animation=twinkling&desc=✨ 热爱代码与生活 ✨&descAlignY=68&descSize=30" alt="Header" />
 </div>
 
 <h1 align="center">🌸 欢迎来到甘城QAQ的小世界 🌸</h1>
